@@ -1,7 +1,14 @@
 print ("Mary Had a little lamb.:")
+#we prints the string `"Mary had a little lamb."` to the console.
+
 print ("Its fleece was white as {}".format('snow'))
+#we uses the **`.format()`** method to insert the string `'snow'` 
+# into the curly braces `{}` within the string. The output will be:  
+
 print ("And everywhere that Mary went.")
+#
 print ("." * 10) #what'd that do
+#
 
 end1 = "C"
 end2 = "h"
